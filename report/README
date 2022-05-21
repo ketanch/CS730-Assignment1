@@ -1,0 +1,10 @@
+References:
+https://www.kernel.org/doc/html/latest/PCI/pci.html
+https://static.lwn.net/images/pdf/LDD3/ch12.pdf
+LDD3
+bootlin
+stackoverflow
+
+Help from others:
+Nikhil helped me in figuring out that I was using wrong interrupt line number in my code which was leading to some issues. (IRQ line 10 should be used whereas I was using 11)
+
