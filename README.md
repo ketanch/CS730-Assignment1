@@ -45,3 +45,5 @@ Eg:
 To prepare the submission tar file, **make** utility can be utilized for the same. But before preparing it, first, **prepare your report in PDF** and place it inside the report directory. Apart from the report file, you need to update the **README** file present in the report directory as per the requirement. The syntax for creating the submission tar file is as follows:
 > **make prepare-submit RNO=Roll_Number**
 
+## Evaluation test cases  
+**eval-test** folder contains the evaluation test cases
